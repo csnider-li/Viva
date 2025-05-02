@@ -68,7 +68,4 @@ The public PGP key provided by Viva Glint that your organization can optionally 
 
 To create a new public PGP key:
 
-1. Go to **Configuration** and select **General settings** in the **Service configuration** section.
-2. Select **Technical configuration** in the menu and then in **SFTP setup** choose **Manage**.
-3. To generate a new key, go to **PGP Encryption** and switch the toggle from **On** to **Off**, and then back to **On**.
-4. Select the copy icon next to the **Public Key** field or select the **Download .asc file** option to get the newly generated key.
+1. You'll need to open a support ticket by following these instructions https://learn.microsoft.com/en-us/viva/learning/help-support
