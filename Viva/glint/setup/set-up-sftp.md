@@ -68,4 +68,4 @@ The public PGP key provided by Viva Glint that your organization can optionally 
 
 To create a new public PGP key:
 
-1. You'll need to open a support ticket by following these instructions https://learn.microsoft.com/en-us/viva/learning/help-support
+1. You'll need to open a support ticket by following these instructions https://learn.microsoft.com/viva/learning/help-support
